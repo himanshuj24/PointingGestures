@@ -6,7 +6,7 @@ Google's Media Pipe Library is used to get the skeleton of hand. This library al
 Other required libraries are:
 OpenCV, Time, numpy
 
-
+Result of this script:
 ![Output of this script:](/Output.png)
 
 
